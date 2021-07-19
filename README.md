@@ -49,8 +49,8 @@
 
 `👉Hey,there! I love to create & host apps/technologies that are FOSS! I use Digitalocean & its awesome! If you want to get started, here's a referral link that'll fetch you a $100 in credit over 60 days!👈`
 -
-**👇️**
+❤️ 👇️ ❤️
 -
-🔗 [https://m.do.co/c/02347191a12b](https://m.do.co/c/02347191a12b)
+[https://m.do.co/c/02347191a12b](https://m.do.co/c/02347191a12b)
 👍
 -
