@@ -26,6 +26,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [📜 My first article! 🎊](https://ishanvelle.hashnode.dev/my-first-article)
+- [⌨️ Code Journal: #100DaysOfCode💻🖊📔](https://ishanvelle.hashnode.dev/code-journal-100daysofcode)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
