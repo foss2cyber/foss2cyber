@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://foss2cyber.github.io/](https://foss2cyber.github.io/)
 
-- 📝 I regularly write articles on [https://ishanvelle.hashnode.dev/](https://ishanvelle.hashnode.dev/). You can join me at [#hashnode](https://hashnode.com/), if you'd like to, using this referral link: [https://hashnode.com/@fossydevy/joinme](https://hashnode.com/@fossydevy/joinme), for FREE! 
+- 📝 I regularly write articles on [https://ishanvelle.hashnode.dev/](https://ishanvelle.hashnode.dev/). You can join me at [#hashnode](https://hashnode.com/), if you'd like to, using this referral link: [#joinme](https://hashnode.com/@fossydevy/joinme), for FREE! 
 
 - 💬 Ask me about **HTML5,CSS,Markdown,Linux,Git,Bash,Linux CLI,FOSS,InfoSec,OSINT,Cybersecurity**
 
