@@ -26,7 +26,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [🚀 The tech companies i yearn to work with! 😍](https://ishanvelle.hashnode.dev/the-tech-companies-i-yearn-to-work-with)
-- [How i overcame my hesitancy to open up online & started blogging](https://ishanvelle.hashnode.dev/how-i-overcame-my-hesitancy-to-open-up-online-and-started-blogging)
+- [How i overcame my hesitancy to open up online &amp; started blogging](https://ishanvelle.hashnode.dev/how-i-overcame-my-hesitancy-to-open-up-online-and-started-blogging)
 - [📜 My first article! 🎊](https://ishanvelle.hashnode.dev/my-first-article)
 <!-- BLOG-POST-LIST:END -->
 
