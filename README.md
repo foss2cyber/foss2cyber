@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thefoss_m" target="blank"><img src="https://img.shields.io/twitter/follow/thefoss_m?logo=twitter&style=for-the-badge" alt="thefoss_m" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio_revamp](https://foss2cyber.github.io/)
+- 🔭 I’m currently working on [A brand new website documenting my self-hosted projects & more!](https://foss2cyber.github.io/)
 
 - 🌱 I’m currently learning **Responsive Web Design @freeCodeCamp**
 
