@@ -19,14 +19,7 @@
 
 - 💬 Ask me about **HTML5,CSS,Markdown,Linux,Git,Bash,Linux CLI,FOSS,InfoSec,OSINT,Cybersecurity,Self-hosting**
 
-- ⚡ Fun fact **This is awkward.....**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [🚀 The tech companies i yearn to work with! 😍](https://ishanvelle.hashnode.dev/the-tech-companies-i-yearn-to-work-with)
-- [How i overcame my hesitancy to open up online &amp; started blogging](https://ishanvelle.hashnode.dev/how-i-overcame-my-hesitancy-to-open-up-online-and-started-blogging)
-- [📜 My first article! 🎊](https://ishanvelle.hashnode.dev/my-first-article)
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **Everything's kinda woozy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
