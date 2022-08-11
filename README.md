@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Honing my Technical Documentation skills & preparing for CompTIA A+**
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Javascript!!!**
 
 - 👯 I’m looking to collaborate on **Responsive Web Designing/FOSS/InfoSec/OSINT projects**
 
