@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Velle!</h1>
-<h3 align="center">🚀An aspiring web developer and FOSS enthusiast🎯</h3>
+<h3 align="center">🚀 Frontend Web Developer & GNU/Linux enthusiast 🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foss2cyber&label=Profile%20views&color=0e75b6&style=flat" alt="foss2cyber" /> </p>
 
@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/thefoss_m" target="blank"><img src="https://img.shields.io/twitter/follow/thefoss_m?logo=twitter&style=for-the-badge" alt="thefoss_m" /></a> </p>
 
-- 🔭 I’m currently working on [A brand new website documenting my self-hosted projects & more!](https://foss2cyber.github.io/)
+- 🔭 I’m currently working on **Honing my Technical Documentation skills & preparing for CompTIA A+**
 
-- 🌱 I’m currently learning **Responsive Web Design @freeCodeCamp**
+- 🌱 I’m currently learning **Javascript, Python**
 
-- 👯 I’m looking to collaborate on **FOSS/InfoSec/OSINT projects**
+- 👯 I’m looking to collaborate on **Responsive Web Designing/FOSS/InfoSec/OSINT projects**
 
-- 🤝 I’m looking for help with **Web development,Networking,Virtual Home Lab Security**
+- 🤝 I’m looking for help with **Web development,Linux Network Security,Technical Documentation**
 
-- 👨‍💻 All of my projects are available at [https://foss2cyber.github.io/](https://foss2cyber.github.io/)
+- 👨‍💻 All of my projects are available at [-](-)
 
-- 📝 I regularly write articles on [https://ishanvelle.hashnode.dev/](https://ishanvelle.hashnode.dev/). You can join me at [#hashnode](https://hashnode.com/), if you'd like to; its FREE! Use this referral link:&nbsp;👉[🔗joinme](https://hashnode.com/@fossydevy/joinme)&nbsp;👈.
-
-- 💬 Ask me about **HTML5,CSS,Markdown,Linux,Git,Bash,Linux CLI,FOSS,InfoSec,OSINT,Cybersecurity**
+- 💬 Ask me about **HTML5,CSS,Markdown,Linux,Git,Bash,Linux CLI,FOSS,InfoSec,OSINT,Cybersecurity,Self-hosting**
 
 - ⚡ Fun fact **This is awkward.....**
 
