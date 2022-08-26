@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Velle!</h1>
 <h3 align="center">🚀 Frontend Web Developer & GNU/Linux enthusiast 🎯</h3>
-
+<a href="https://app.daily.dev/gilly6"><img src="https://api.daily.dev/devcards/dace66fc5d894d0ab45fcd4dfa18dd7b.png?r=0zg" width="400" alt="Ishan Velle's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foss2cyber&label=Profile%20views&color=0e75b6&style=flat" alt="foss2cyber" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foss2cyber" alt="foss2cyber" /></a> </p>
