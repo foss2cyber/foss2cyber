@@ -1,6 +1,10 @@
-[![Header](https://user-images.githubusercontent.com/78159236/212897248-1713e5aa-6de1-452d-9e19-1e6afbbfef05.png "Header")](https://www.yourishanvelle.dev/)
+<div>
+  <a href="https://yourishanvelle.dev/" target="_blank" rel="noreferrer" aria-label="Online illustrations by Storyset" >
+  <img src="https://user-images.githubusercontent.com/78159236/212903262-616c19c8-a0e1-49c0-8b90-218a1ca3ecca.png" alt="header image" width="1600" height="720" object-fit="cover" title="Ishan Velle" />  
+  </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Ishan Velle!</h1>
+<h1 align="center">Hi there,&nbsp;👋&nbsp;I'm Ishan Velle!</h1>
 <h3 align="center">🚀 Front-end Web Developer 🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foss2cyber&label=Profile%20views&color=0e75b6&style=flat" alt="foss2cyber" /> </p>
