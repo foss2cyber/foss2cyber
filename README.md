@@ -1,5 +1,7 @@
+[![Header](https://user-images.githubusercontent.com/78159236/212897248-1713e5aa-6de1-452d-9e19-1e6afbbfef05.png "Header")](https://www.yourishanvelle.dev/)
+
 <h1 align="center">Hi 👋, I'm Ishan Velle!</h1>
-<h3 align="center">🚀 Frontend Web Developer & GNU/Linux enthusiast 🎯</h3>
+<h3 align="center">🚀 Front-end Web Developer 🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foss2cyber&label=Profile%20views&color=0e75b6&style=flat" alt="foss2cyber" /> </p>
 
