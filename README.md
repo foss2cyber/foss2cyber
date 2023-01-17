@@ -7,11 +7,11 @@
 <h1 align="center">Hi there,&nbsp;👋&nbsp;I'm Ishan Velle!</h1>
 <h3 align="center">🚀 Front-end Web Developer 🎯</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foss2cyber&label=Profile%20views&color=0e75b6&style=flat" alt="foss2cyber" /> </p>
+![](https://komarev.com/ghpvc/?username=foss2cyber&color=blueviolet&style=plastic)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foss2cyber" alt="foss2cyber" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 
-<p align="left"> <a href="https://twitter.com/thefoss_m" target="blank"><img src="https://img.shields.io/twitter/follow/thefoss_m?logo=twitter&style=for-the-badge" alt="thefoss_m" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thefoss_m" target="blank"><img src="https://img.shields.io/twitter/follow/thefoss_m?logo=twitter&style=for-the-badge&color=blueviolet" alt="twitter" /></a> </p>
 
 - 🔭 I’m currently working on **Honing my Technical Documentation skills & preparing for CompTIA A+**
 
@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thefoss_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishan-velle-fossie8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="#" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/78159236/212920178-3aade09c-fa4d-47ce-8781-7b7c21b9858a.png" alt="mastodon" height="38" width="40" /></a>
+<a href="https://twitter.com/thefoss_m" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishan-velle-fossie8" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://ioc.exchange/@betwixt_5scen" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/78159236/212920178-3aade09c-fa4d-47ce-8781-7b7c21b9858a.png" alt="mastodon" height="38" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,8 +42,8 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=gold&color=navy)
 ![](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=111&color=navy)
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foss2cyber&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="foss2cyber" color="purple" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foss2cyber&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="foss2cyber" color="purple" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foss2cyber&show_icons=true&locale=en&theme=synthwave" alt="foss2cyber" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foss2cyber&show_icons=true&locale=en&theme=gruvbox" alt="foss2cyber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foss2cyber&theme=synthwave&" alt="foss2cyber" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foss2cyber&theme=gruvbox&" alt="foss2cyber" /></p>
