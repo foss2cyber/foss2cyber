@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/thefoss_m" target="blank"><img src="https://img.shields.io/twitter/follow/thefoss_m?logo=twitter&style=for-the-badge&color=blueviolet" alt="twitter" /></a> </p>
 
-- 🔭 I’m currently working on **Honing my Technical Documentation skills & preparing for CompTIA A+**
+- 🔭 I’m currently working on **improving my JS skills & CompTIA A+**
 
 - 🌱 I’m currently learning **Javascript, DS & Algorithms!**
 
