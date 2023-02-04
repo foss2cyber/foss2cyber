@@ -11,7 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 
-<p align="left"> <a href="https://twitter.com/thefoss_m" target="blank"><img src="https://img.shields.io/twitter/follow/thefoss_m?logo=twitter&style=for-the-badge&color=blueviolet" alt="twitter" /></a> </p>
 
 - 🔭 I’m currently working on **improving my JS skills & CompTIA A+**
 
@@ -27,12 +26,6 @@
 
 - ⚡ Fun fact **Everything's kinda woozy!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thefoss_m" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishan-velle-fossie8" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://ioc.exchange/@betwixt_5scen" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/78159236/215314336-053f570f-3eaf-4bd0-be92-9679a88137ce.svg" alt="mastodon" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
