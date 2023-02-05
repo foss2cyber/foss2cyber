@@ -12,7 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 
 
-- 🔭 I’m currently working on **improving my JS skills & CompTIA A+**
+- 🔭 I’m currently working on **JS & DevOps**
 
 - 🌱 I’m currently learning **Javascript, DS & Algorithms!**
 
