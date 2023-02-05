@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **Javascript, DS & Algorithms!**
 
-- 👯 I’m looking to collaborate on **Responsive Web Designing/FOSS/InfoSec/OSINT projects**
+- 👯 I’m looking to collaborate on **projects involving Front-end Web Devlopment, InfoSec/OSINT, & DevOps**
 
-- 🤝 I’m looking for help with **Web development,Linux Network Security,Technical Documentation**
+- 🤝 I’m looking for help with **Kubernetes, Linux Network Security & JS**
 
 - 👨‍💻 All of my projects are available at [#latestprojects](https://yourishanvelle.dev/#projects)
 
-- 💬 Ask me about **HTML5,CSS3,Markdown,Linux,Git,Github,Bash,Linux,FOSS,InfoSec,OSINT,Cybersecurity,Self-hosting**
+- 💬 Ask me about **HTML5,CSS3,Markdown,JavaScript,Docker,Linux,Git,Github,Bash scripting,FOSS,Cybersecurity,Self-hosting a Homelab**
 
 - ⚡ Fun fact **Everything's kinda woozy!**
 
