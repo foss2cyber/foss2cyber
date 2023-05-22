@@ -1,11 +1,4 @@
-<div>
-  <a href="https://yourishanvelle.dev/" target="_blank" rel="noreferrer" aria-label="Online illustrations by Storyset">
-  <img src="https://user-images.githubusercontent.com/78159236/212903262-616c19c8-a0e1-49c0-8b90-218a1ca3ecca.png" alt="header image" width="1500" height="500" object-fit="cover" title="Ishan Velle" />  
-  </a>
-</div>
-
-<h1 align="center">Hi there,&nbsp;👋&nbsp;I'm Ishan Velle!</h1>
-<h3 align="center">🚀 Front-end Web Developer 🎯</h3>
+![Header](#)
 
 ![](https://komarev.com/ghpvc/?username=foss2cyber&color=blueviolet&style=plastic)
 
