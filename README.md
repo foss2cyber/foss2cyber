@@ -1,6 +1,6 @@
 <div>
   <a href="https://yourishanvelle.dev/" target="_blank" rel="noreferrer" aria-label="Online illustrations by Storyset">
-  <img src="https://user-images.githubusercontent.com/78159236/212903262-616c19c8-a0e1-49c0-8b90-218a1ca3ecca.png" alt="header image" width="1600" height="720" object-fit="cover" title="Ishan Velle" />  
+  <img src="https://user-images.githubusercontent.com/78159236/212903262-616c19c8-a0e1-49c0-8b90-218a1ca3ecca.png" alt="header image" width="1500" height="500" object-fit="cover" title="Ishan Velle" />  
   </a>
 </div>
 
@@ -12,17 +12,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 
 
-- 🔭 I’m currently working on **JS & DevOps**
+- 🔭 I’m currently working on **JS, React, & DevOps**
 
-- 🌱 I’m currently learning **Javascript, DS & Algorithms!**
+- 🌱 I’m currently learning **Python, Go**
 
-- 👯 I’m looking to collaborate on **projects involving Front-end Web Devlopment, InfoSec/OSINT, & DevOps**
+- 👯 I’m looking to collaborate on **projects involving Web Devlopment, InfoSec/OSINT, & DevOps**
 
-- 🤝 I’m looking for help with **Kubernetes, Linux Network Security & JS**
+- 🤝 I’m looking for help with **Python, Go, JS**
 
 - 👨‍💻 All of my projects are available at [#latestprojects](https://yourishanvelle.dev/#projects)
 
-- 💬 Ask me about **HTML5,CSS3,Markdown,JavaScript,Docker,Linux,Git,Github,Bash scripting,FOSS,Cybersecurity,Self-hosting a Homelab**
+- 💬 Ask me about **Web development, DevOps, Cybersecurity/Infosec/OSINT/DFIR, Homelabs**
 
 - ⚡ Fun fact **Everything's kinda woozy!**
 
