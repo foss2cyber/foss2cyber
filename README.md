@@ -4,20 +4,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 
+[![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
 
 - 🔭 I’m currently working on **JS, React, & DevOps**
 
 - 🌱 I’m currently learning **Python, Go**
 
-- 👯 I’m looking to collaborate on **projects involving Web Devlopment, InfoSec/OSINT, & DevOps**
+- 👯 I’m looking to collaborate on **projects involving Web Devlopment, Infosec/OSINT, & DevOps**
 
 - 🤝 I’m looking for help with **Python, Go, JS**
 
-- 👨‍💻 All of my projects are available at [#latestprojects](https://yourishanvelle.dev/#projects)
+- 👨‍💻 All of my projects are available at [`latestprojects`](https://yourishanvelle.dev/#projects)
 
 - 💬 Ask me about **Web development, DevOps, Cybersecurity/Infosec/OSINT/DFIR, Homelabs**
 
-- ⚡ Fun fact **Everything's kinda woozy!**
+- ✨&nbsp;Favourite Quote&nbsp;- **[`"Every battle is won before it's ever fought." - Sun Tzu: The Art Of War`]()**
 
 
 <h3 align="left">Languages and Tools:</h3>
