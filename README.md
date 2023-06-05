@@ -23,20 +23,21 @@
 
 <h3 align="left">:toolbox:&nbspLanguages and Tools:</h3>
 
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=orangered&color=bisque)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=darkblue&color=bisque)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=gold&color=bisque)
-![](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=darkslategrey&color=bisque)
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=darkcyan&color=bisque)
-![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=darkslategrey&color=bisque)
-![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=darkgreen&color=bisque)
-![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=darkturquoise&color=bisque)
-![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=purple&color=bisque)
-![](https://img.shields.io/badge/Bulma-informational?style=for-the-badge&logo=bulma&logoColor=turquoise&color=bisque)
-![](https://img.shields.io/badge/NextJS-informational?style=for-the-badge&logo=next.js&logoColor=black&color=bisque)
-![](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=darkorange&color=bisque)
-![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=magenta&color=bisque)
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=deepskyblue&color=bisque)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=E95521&color=bisque)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=167BBC&color=bisque)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=FCDC00&color=bisque)
+![](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=000000&color=bisque)
+![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=43853d&color=bisque)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=149ECA&color=bisque)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=161B22&color=bisque)
+![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=12BC00&color=bisque)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8&color=bisque)
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=8411F9&color=bisque)
+![](https://img.shields.io/badge/Bulma-informational?style=for-the-badge&logo=bulma&logoColor=00D1B2&color=bisque)
+![](https://img.shields.io/badge/NextJS-informational?style=for-the-badge&logo=next.js&logoColor=000000&color=bisque)
+![](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=E3E2E9&color=bisque)
+![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=663399&color=bisque)
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=086DD7&color=bisque)
 
 
   
