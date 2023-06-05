@@ -21,7 +21,7 @@
 - ✨&nbsp;Favourite Quote&nbsp;- **[`"Every battle is won before it's ever fought." - Sun Tzu: The Art Of War`]()**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:toolbox:&nbspLanguages and Tools:</h3>
 
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=orangered&color=bisque)
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=darkblue&color=bisque)
