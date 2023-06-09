@@ -1,27 +1,38 @@
-![Header](./headerishanvelle.png)
+![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
+## <p align="center"><code>👋&nbsp;Hi there! I'm Ishan Velle&nbsp;&middot;&nbsp;[Front-end Developer]()&nbsp;🚀</code></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="foss2cyber" /></p>
+<br />
 
 ![](https://komarev.com/ghpvc/?username=foss2cyber&color=blue&style=for-the-badge)
+<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
+<br />
 
 [![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
+<br />
 
-- 🔭 I’m currently working on **JS, React, & DevOps**
+- 🔭&nbsp;<code>I’m currently _[hacking]()_ on **[JS](), [React](), &amp; [DevOps]()**</code>
 
-- 🌱 I’m currently learning **Python, Go**
+- 🌱&nbsp;<code>I’m currently learning **[Python]() &amp; [GoLang]()**</code>
 
-- 👯 I’m looking to collaborate on **projects involving Web Devlopment, Infosec/OSINT, & DevOps**
+- 👯&nbsp;<code>I’m looking to collaborate on projects involving **[Web Devlopment](), [Infosec/OSINT](), &amp; [DevOps]()**</code>
 
-- 🤝 I’m looking for help with **Python, Go, JS**
+- 🤝&nbsp;<code>I’m looking for help with **[Python](), [GoLang](), [JS]()**</code>
 
-- 👨‍💻 All of my projects are available at [`latestprojects`](https://yourishanvelle.dev/#projects)
+- 👨‍💻&nbsp;<code>All of my projects are available at **[latestprojects](https://yourishanvelle.dev/#projects)**</code>
 
-- 💬 Ask me about **Web development, DevOps, Cybersecurity/Infosec/OSINT/DFIR, Homelabs**
+- 💬&nbsp;<code>Ask me about **[Web development](), [DevOps](), [Cybersecurity/Infosec/OSINT/DFIR](), [Homelabs]()**</code>
 
-- ✨&nbsp;Favourite Quote&nbsp;- **[`"Every battle is won before it's ever fought." - Sun Tzu: The Art Of War`]()**
+- ✨&nbsp;<code>nbsp;**Favourite Quote**&nbsp; **["Every battle is won before it's ever fought." - Sun Tzu: The Art Of War]()**</code>
 
+---
 
-<h3 align="left">:toolbox:&nbspLanguages and Tools:</h3>
+### <p align="center">🧰&nbsp;Languages and Tools</p>
+
+<br />
 
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=E95521&color=bisque)
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=167BBC&color=bisque)
@@ -39,10 +50,14 @@
 ![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=663399&color=bisque)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=086DD7&color=bisque)
 
+<br />
 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foss2cyber&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="foss2cyber" color="purple" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=foss2cyber&show_icons=true&locale=en&layout=compact&theme=dark" alt="foss2cyber" color="purple" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foss2cyber&show_icons=true&locale=en&theme=gruvbox" alt="foss2cyber" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=foss2cyber&show_icons=true&locale=en&theme=dark" alt="foss2cyber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foss2cyber&theme=gruvbox&" alt="foss2cyber" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=foss2cyber&theme=dark" alt="foss2cyber" /></p>
+<br />
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="foss2cyber" />
+<br />
