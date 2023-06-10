@@ -1,15 +1,24 @@
-name: Latest blog post workflow
+name: "📚 Blog Updater"
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs Every Day
+
 jobs:
-  update-readme-with-hashnode-blog:
-    name: Update this repo's README with the latest hashnode blog posts
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
-    steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://ishanvelle.hashnode.dev/rss.xml"
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'ivelle' # Hashnode Username
+          BLOG_URL: 'https://psibr-oh.hashnode.dev/' # Blog URL
+          COUNT: 3 # MAX Visisble
+          STYLE: "blog-alternate"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
