@@ -42,11 +42,15 @@
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=149ECA&color=bisque)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=161B22&color=bisque)
 ![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=12BC00&color=bisque)
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=magenta&color=bisque)
+![](https://img.shields.io/badge/Inkscape-informational?style=for-the-badge&logo=inkscape&logoColor=111&color=bisque)
+![](https://img.shields.io/badge/GIMP-informational?style=for-the-badge&logo=gimp&logoColor=darkslategrey&color=bisque)
+![](https://img.shields.io/badge/Svelte-informational?style=for-the-badge&logo=svelte&logoColor=orangered&color=bisque)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8&color=bisque)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=8411F9&color=bisque)
 ![](https://img.shields.io/badge/Bulma-informational?style=for-the-badge&logo=bulma&logoColor=00D1B2&color=bisque)
 ![](https://img.shields.io/badge/NextJS-informational?style=for-the-badge&logo=next.js&logoColor=000000&color=bisque)
-![](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=E3E2E9&color=bisque)
+![](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=lightgrey&color=bisque)
 ![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=663399&color=bisque)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=086DD7&color=bisque)
 
@@ -57,7 +61,4 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=foss2cyber&show_icons=true&locale=en&theme=dark" alt="foss2cyber" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=foss2cyber&theme=dark" alt="foss2cyber" /></p>
-<br />
-
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="foss2cyber" />
 <br />
