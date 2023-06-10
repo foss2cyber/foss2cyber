@@ -8,10 +8,10 @@
 ![](https://komarev.com/ghpvc/?username=foss2cyber&color=blue&style=for-the-badge)
 <br />
 
-[![📚 Blog Updater](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml)
+[![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
+## [![📚 Blog Updater](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml)
 <br />
 
 [![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
