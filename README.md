@@ -26,7 +26,7 @@
 
 - 💬&nbsp;<code>Ask me about **[Web development](), [DevOps](), [Cybersecurity/Infosec/OSINT/DFIR](), [Homelabs]()**</code>
 
-- ✨&nbsp;<code>nbsp;**Favourite Quote**&nbsp; **["Every battle is won before it's ever fought." - Sun Tzu: The Art Of War]()**</code>
+- ✨&nbsp;<code>**Favourite Quote**&nbsp; **["Every battle is won before it's ever fought." - Sun Tzu: The Art Of War]()**</code>
 
 ---
 
