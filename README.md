@@ -12,6 +12,7 @@
 <br />
 
 ## [![📚 Blog Updater](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml)
+
 <br />
 
 [![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
@@ -45,8 +46,10 @@
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=149ECA&color=bisque)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=161B22&color=bisque)
 ![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=12BC00&color=bisque)
+![](https://img.shields.io/badge/Notion-informational?style=for-the-badge&logo=notion&logoColor=black&color=bisque)
 ![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=magenta&color=bisque)
 ![](https://img.shields.io/badge/Inkscape-informational?style=for-the-badge&logo=inkscape&logoColor=111&color=bisque)
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=deepskyblue&color=bisque)
 ![](https://img.shields.io/badge/GIMP-informational?style=for-the-badge&logo=gimp&logoColor=darkslategrey&color=bisque)
 ![](https://img.shields.io/badge/Svelte-informational?style=for-the-badge&logo=svelte&logoColor=orangered&color=bisque)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8&color=bisque)
@@ -67,6 +70,7 @@
 <br />
 
 ## Latest Blog Posts 👇
+
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://psibr-oh.hashnode.dev//unveiling-the-power-of-open-source-a-personal-journey-of-learning-and-contribution" title="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bq31L0jQAjU/upload/a514eb3ca5364c2bf9346c7dce6e6b12.jpeg" alt="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝" width="250px" align="left" /></a>
@@ -75,6 +79,7 @@
 <br/> A few years back, when someone mentioned open source to me, this is what came to mind:
 
 Imagine having the power to pierce the veil and see the inner workings of any tool, software, or application that's up for grabs on the internet. And not just tha... </p> <br/> <br/>
+
 <p align="left">
 <a href="https://psibr-oh.hashnode.dev//the-year-that-was-2022-a-look-back" title="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back."><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/un1s8VOLRC0/upload/5b0768c78a277a8880cd985e6c32b989.jpeg" alt="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back." width="250px" align="right" /></a>
 <a href="https://psibr-oh.hashnode.dev//the-year-that-was-2022-a-look-back" title="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back."><strong>Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back.</strong></a>
@@ -86,9 +91,9 @@ Imagine having the power to pierce the veil and see the inner workings of any to
 <div><strong>17 Apr 2022</strong></div>
 <br/> Hello there ! 👋
 
-
 This is the first post on my blog here on Hashnode .
 It's such a wonderful platform to be on and i'm really looking forward to have fun interacting with the community; learning from each other in the bargain ! 😍 👍
 
 🍻 Till next t... </p> <br/> <br/>
+
 <!-- HASHNODE_BLOG:END -->
