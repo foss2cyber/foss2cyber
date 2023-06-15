@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: "0 0 * * *" # Runs Every Day
 
 jobs:
   update_blogs:
@@ -16,9 +16,9 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'ivelle' # Hashnode Username
-          BLOG_URL: 'https://psibr-oh.hashnode.dev/' # Blog URL
-          COUNT: 3 # MAX Visisble
+          USERNAME: "ivelle" # Hashnode Username
+          BLOG_URL: "https://psibr-oh.hashnode.dev/" # Blog URL
+          COUNT: 3 # MAX Visible
           STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
