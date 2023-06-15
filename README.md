@@ -79,7 +79,6 @@
 <br/> A few years back, when someone mentioned open source to me, this is what came to mind:
 
 Imagine having the power to pierce the veil and see the inner workings of any tool, software, or application that's up for grabs on the internet. And not just tha... </p> <br/> <br/>
-
 <p align="left">
 <a href="https://psibr-oh.hashnode.dev//the-year-that-was-2022-a-look-back" title="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back."><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/un1s8VOLRC0/upload/5b0768c78a277a8880cd985e6c32b989.jpeg" alt="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back." width="250px" align="right" /></a>
 <a href="https://psibr-oh.hashnode.dev//the-year-that-was-2022-a-look-back" title="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back."><strong>Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back.</strong></a>
@@ -91,9 +90,9 @@ Imagine having the power to pierce the veil and see the inner workings of any to
 <div><strong>17 Apr 2022</strong></div>
 <br/> Hello there ! 👋
 
+
 This is the first post on my blog here on Hashnode .
 It's such a wonderful platform to be on and i'm really looking forward to have fun interacting with the community; learning from each other in the bargain ! 😍 👍
 
 🍻 Till next t... </p> <br/> <br/>
-
 <!-- HASHNODE_BLOG:END -->
