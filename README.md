@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-## <p align="center"><code>👋&nbsp;Hi there! I'm Ishan Velle&nbsp;&middot;&nbsp;[Front-end Developer]()&nbsp;🚀</code></p>
+## <p align="center"><code>👋&nbsp;Hi there! I'm Ishan Velle&nbsp;&middot;&nbsp;[Front-end Web Developer]()&nbsp;🚀</code></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="foss2cyber" /></p>
 <br />
@@ -17,9 +17,7 @@
 [![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
 <br />
 
-- 🔭&nbsp;<code>I’m currently _[hacking]()_ on **[JS](), [React](), &amp; [DevOps]()**</code>
-
-- 🌱&nbsp;<code>I’m currently learning **[Python]() &amp; [GoLang]()**</code>
+- 🔭&nbsp;<code>I’m currently _[hacking]()_ on **[readable.css](), [Sass](), [UX/UI designs on Figma]() &amp; [JS]()**</code>
 
 - 👯&nbsp;<code>I’m looking to collaborate on projects involving **[Web Devlopment](), [Infosec/OSINT](), &amp; [DevOps]()**</code>
 
