@@ -73,7 +73,7 @@
 <p align="left">
 <a href="https://psibr-oh.hashnode.dev//hashnode-bootcamp-fall-2023" title="Hashnode Bootcamp - Fall 2023 🍂"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696697189509/5d1616a3-aee1-4fea-998c-2574259400aa.png" alt="Hashnode Bootcamp - Fall 2023 🍂" width="250px" align="left" /></a>
 <a href="https://psibr-oh.hashnode.dev//hashnode-bootcamp-fall-2023" title="Hashnode Bootcamp - Fall 2023 🍂"><strong>Hashnode Bootcamp - Fall 2023 🍂</strong></a>
-<div><strong>8 Oct 2023</strong></div>
+<div><strong>8 Oct 2023</strong> | <strong>Updated: 11 Oct 2023</strong></div>
 <br/> Ever felt overwhelmed by the sheer amount of books surrounding you whenever you stepped into a library as a child and wanted to rifle through each shelf, yet still couldn't get enough of them? This was exactly how I felt during this wonderful Bootcam... </p> <br/> <br/>
 <p align="left">
 <a href="https://psibr-oh.hashnode.dev//unveiling-the-power-of-open-source-a-personal-journey-of-learning-and-contribution" title="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bq31L0jQAjU/upload/a514eb3ca5364c2bf9346c7dce6e6b12.jpeg" alt="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝" width="250px" align="right" /></a>
