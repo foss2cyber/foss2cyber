@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "ivelle" # Hashnode Username
-          BLOG_URL: "https://psibr-oh.hashnode.dev/" # Blog URL
+          BLOG_URL: "https://fosspill.opscyber.xyz/" # Blog URL
           COUNT: 3 # MAX Visible
           STYLE: "blog-alternate"
         env:
