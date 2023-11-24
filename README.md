@@ -11,9 +11,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=foss2cyber&theme=radical)](https://github.com/foss2cyber)
 <br />
 
-## [![📚 Blog Updater](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/foss2cyber/foss2cyber/actions/workflows/blog-post-workflow.yml)
-<br />
-
 [![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
 <br />
 
@@ -68,25 +65,3 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=foss2cyber&theme=dark" alt="foss2cyber" /></p>
 <br />
-
-## Latest Blog Posts 👇
-
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://psibr-oh.hashnode.dev//hashnode-bootcamp-fall-2023" title="Hashnode Bootcamp - Fall 2023 🍂"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696697189509/5d1616a3-aee1-4fea-998c-2574259400aa.png" alt="Hashnode Bootcamp - Fall 2023 🍂" width="250px" align="left" /></a>
-<a href="https://psibr-oh.hashnode.dev//hashnode-bootcamp-fall-2023" title="Hashnode Bootcamp - Fall 2023 🍂"><strong>Hashnode Bootcamp - Fall 2023 🍂</strong></a>
-<div><strong>8 Oct 2023</strong> | <strong>Updated: 11 Oct 2023</strong></div>
-<br/> Ever felt overwhelmed by the sheer amount of books surrounding you whenever you stepped into a library as a child and wanted to rifle through each shelf, yet still couldn't get enough of them? This was exactly how I felt during this wonderful Bootcam... </p> <br/> <br/>
-<p align="left">
-<a href="https://psibr-oh.hashnode.dev//unveiling-the-power-of-open-source-a-personal-journey-of-learning-and-contribution" title="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bq31L0jQAjU/upload/a514eb3ca5364c2bf9346c7dce6e6b12.jpeg" alt="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝" width="250px" align="right" /></a>
-<a href="https://psibr-oh.hashnode.dev//unveiling-the-power-of-open-source-a-personal-journey-of-learning-and-contribution" title="✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝"><strong>✨ Unveiling the Power of Open Source: A Personal Journey of Learning and Contribution 🤝</strong></a>
-<div><strong>31 May 2023</strong> | <strong>Updated: 1 June 2023</strong></div>
-<br/> A few years back, when someone mentioned open source to me, this is what came to mind:
-
-Imagine having the power to pierce the veil and see the inner workings of any tool, software, or application that's up for grabs on the internet. And not just tha... </p> <br/> <br/>
-<p align="left">
-<a href="https://psibr-oh.hashnode.dev//the-year-that-was-2022-a-look-back" title="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back."><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/un1s8VOLRC0/upload/5b0768c78a277a8880cd985e6c32b989.jpeg" alt="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back." width="250px" align="left" /></a>
-<a href="https://psibr-oh.hashnode.dev//the-year-that-was-2022-a-look-back" title="Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back."><strong>Bizarre, topsy-turvy,....& what not! The year that was 2022 - A look back.</strong></a>
-<div><strong>7 Jan 2023</strong> | <strong>Updated: 1 June 2023</strong></div>
-<br/> 📆 The year 2022 finally withered away & we've already reached the first weekend of 2023! It's been a rather bizarre journey for me since I started coding in earnest, back in 2020 - after the pandemic struck. It took me another year for me to join Tw... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
