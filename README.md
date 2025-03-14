@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-# <p align="center"><code>👋&nbsp;Hi there! I'm Ishan Velle&nbsp;&middot;&nbsp;[Web Developer]()&nbsp;🚀</code></p>
+# <p align="center"><code>👋&nbsp;Hi there! I'm Ishan Velle&nbsp;&middot;&nbsp;[Full-stack Web Developer &amp; UX/UI Designer]()&nbsp;🚀</code></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="foss2cyber" /></p>
 <br />
