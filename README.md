@@ -14,14 +14,6 @@
 [![better commits is enabled](https://img.shields.io/badge/better--commits-enabled?style=for-the-badge&logo=git&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)](https://github.com/Everduin94/better-commits)
 <br />
 
-- 🔭&nbsp;<code>I’m currently ***hacking*** on **[huetiful](https://github.com/prjctimg/huetiful)**</code>
-
-- 🗺️&nbsp; <code>Am an **[OSM](https://www.openstreetmap.org/user/ishanv_fossmapper)** mapper now!&nbsp;😎</code>
-
-- 📖&nbsp;<code>Learning **[lua]() &amp; [Powershell scripting]()**</code>
-
-- 🤝&nbsp;<code>I’m looking to collaborate on projects involving **[Web Devlopment](), [Infosec/OSINT](), &amp; [DevOps]()**</code>
-
 - 👨‍💻&nbsp;<code>All of my projects are available at **[latestprojects](https://yourishanvelle.dev/#projects)**</code>
 
 - 💬&nbsp;<code>Ask me about **[Web development](), [DevOps](), [Cybersecurity/Infosec/OSINT/DFIR](), [Homelabs]()**</code>
