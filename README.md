@@ -26,18 +26,21 @@
 
 <br />
 
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=slategrey&color=bisque)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=E95521&color=bisque)
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=E95521&color=bisque)
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=167BBC&color=bisque)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=FFBF00&color=bisque)
-![](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=000000&color=bisque)
 ![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=43853d&color=bisque)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=149ECA&color=bisque)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=darkblue&color=bisque)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=darkslategrey&color=bisque)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=161B22&color=bisque)
 ![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=12BC00&color=bisque)
 ![](https://img.shields.io/badge/Notion-informational?style=for-the-badge&logo=notion&logoColor=black&color=bisque)
 ![](https://img.shields.io/badge/Webflow-informational?style=for-the-badge&logo=webflow&logoColor=111&color=bisque)
 ![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=magenta&color=bisque)
-![](https://img.shields.io/badge/penpot-informational?style=for-the-badge&logo=penpot&logoColor=111&color=bisque)
+![](https://img.shields.io/badge/Penpot-informational?style=for-the-badge&logo=penpot&logoColor=111&color=bisque)
 ![](https://img.shields.io/badge/Inkscape-informational?style=for-the-badge&logo=inkscape&logoColor=111&color=bisque)
 ![](https://img.shields.io/badge/Framer-informational?style=for-the-badge&logo=framer&logoColor=black&color=bisque)
 ![](https://img.shields.io/badge/GIMP-informational?style=for-the-badge&logo=gimp&logoColor=darkslategrey&color=bisque)
