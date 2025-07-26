@@ -1,8 +1,8 @@
-![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![Header](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
-# <p align="center"><code>👋&nbsp;Hi there! I'm Ishan Velle&nbsp;&middot;&nbsp;[Full-stack Web Developer &amp; UX/UI Designer]()&nbsp;🚀</code></p>
+## `Hello there! I'm Ishan. Full-stack Web Dev | DevOps | Network Security | UX-UI & Graphic Design`
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="foss2cyber" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="foss2cyber" /></p>
 <br />
 
 ![](https://komarev.com/ghpvc/?username=foss2cyber&color=blue&style=for-the-badge)
