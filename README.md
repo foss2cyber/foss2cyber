@@ -3,5 +3,5 @@
    ```bash
    $ whoami  
    Building resilient systems in high-compliance environments.  
-   Skills: Python | Ansible | Linux Hardening | Vulnerability Management  
+   Skills: C | Python | Ansible | Linux Hardening | Vulnerability Management  
    ```
